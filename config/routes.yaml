@@ -1,0 +1,6 @@
+index:
+    path: /api
+    controller: App\Controller\CrudController::index
+admin:
+    path: /admin
+    controller: App\Controller\AdminController::index

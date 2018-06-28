@@ -1,0 +1,8 @@
+{
+  "name": "symfony4best",
+  "version": "0.0.1",
+  "dependencies": {},
+  "scripts": {
+    "test": "php7 bin/phpunit"
+  }
+}
